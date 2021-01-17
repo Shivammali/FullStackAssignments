@@ -1,0 +1,8 @@
+MySQl Assignments
+1-->> 
+
+JAVA Assignments
+1-->>Completed  name of assignment(Examination)
+2-->>Completed name of assignment(Employee)
+3-->>Completed  name of assignment(EmployeeClass)
+4-->>Completed name of assignment(Project)
