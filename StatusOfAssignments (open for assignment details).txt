@@ -1,0 +1,12 @@
+MySQl Assignments
+1-->> Function 9 pending  name of assignment(Assignment 1)
+2-->>DDL 4,5 problem , DML 3,5 pending    name of assignment(Assignment2)
+
+
+JAVA Assignments
+1-->> Completed  name of assignment(Examination)
+2-->> Completed name of assignment(Employee)
+3-->> Completed  name of assignment(EmployeeClass)
+4-->> Completed name of assignment(Project)
+5-->> Completed name of assignment(StudentTest)
+6-->> Pending name of assignment( )
