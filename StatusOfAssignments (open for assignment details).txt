@@ -9,5 +9,9 @@ JAVA Assignments
 3-->> Completed   // name of assignment(EmployeeClass)
 4-->> Completed   // name of assignment(Project)
 5-->> Completed   // name of assignment(StudentTest)
-6-->> Pending     // name of assignment( )
+6-->> Partially Completed Exception handling remaining // name of assignment(HDFCBank)
+   
 7-->> Completed   // name of assignment(NameAscending)
+8-->>  Completed //name of assginment (ComparatorSorting)
+9->> Partially   Completed //name of assginment (BeanAssign)
+10->>  Partially   Completed 
