@@ -14,4 +14,4 @@ JAVA Assignments
 7-->> Completed   // name of assignment(NameAscending)
 8-->>  Completed //name of assginment (ComparatorSorting)
 9->> Partially   Completed //name of assginment (BeanAssign)
-10->>  Partially   Completed 
+10->>  Pending
