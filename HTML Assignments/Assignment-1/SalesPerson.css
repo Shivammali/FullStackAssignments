@@ -1,0 +1,17 @@
+.header {
+  background: #080f0e;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height:20;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+#message{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: rgb(8, 8, 8);
+    text-align: right;
+  
+} 
